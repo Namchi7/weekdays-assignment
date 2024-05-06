@@ -14,3 +14,5 @@
 
 - [LinkedIn](https://www.linkedin.com/in/aman-kumar-akp "LinkedIn")
 - [Portfolio](https://amankumarportfolio.netlify.app "Portfolio")
+
+_Note: Due to not properly reading the deadline guidelines, I was not able to make incremental commit on time. So, I am submitting the assignment with the incremental commits at one time. _
